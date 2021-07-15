@@ -1,0 +1,23 @@
+{
+	"select": {
+		"columns": [
+			{ "column": "name",
+			  "type": "None"
+			},
+			{ "column": "score",
+			  "type": "None"
+			}
+		]
+	},
+	"from": {
+		"table": "emp"
+	},
+	"join": {
+	},
+	"where": {
+	},
+	"group_by": {
+	},
+	"select": {
+	},
+}
